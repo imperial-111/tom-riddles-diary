@@ -9,7 +9,7 @@ Interactive 3D Model: A visually striking 3D model of Tom Riddle's diary, rotata
 
 Dynamic Opening Animation: Witness the diary magically open to reveal the chat interface upon user interaction.
 
-Sentient AI Persona: Converse with Tom Riddle, an arrogant, manipulative, and all-knowing entity powered by the Google Gemini API.
+Sentient AI Persona: Converse with Tom Riddle, an arrogant, manipulative, and all-knowing entity.
 
 Typewriter Effect: AI responses are revealed with an authentic typewriter animation, enhancing the immersive experience.
 
@@ -17,6 +17,5 @@ Thematic Design: Custom CSS and Tailwind CSS ensure a dark, ancient, and magical
 
 Responsive Layout: The application is designed to be fully responsive, offering an optimal experience across various devices and screen sizes.
 
-Client-Side Application: Runs directly in your web browser, requiring no server setup for the basic web version.
 
-Technology
+
