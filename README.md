@@ -1,6 +1,6 @@
 Tom Riddle's Diary - An Interactive Digital Experience
 Overview
-Welcome to Tom Riddle's Diary, an immersive and interactive digital rendition of the infamous enchanted diary from the Harry Potter universe. This application brings the diary to life as a responsive 3D model that opens to reveal a chat interface. Engage in conversations with a sentient fragment of Tom Riddle's soul, powered by the Google Gemini API, as he offers cryptic insights, manipulative remarks, and vast knowledge of the wizarding world.
+Welcome to Tom Riddle's Diary, an immersive and interactive digital rendition of the infamous enchanted diary from the Harry Potter universe. This application brings the diary to life as a responsive 3D model that opens to reveal a chat interface. Engage in conversations with a sentient fragment of Tom Riddle's soul, as he offers cryptic insights, manipulative remarks, and vast knowledge of the wizarding world.
 
 The experience is crafted to evoke the eerie and mysterious atmosphere of the diary, complete with subtle animations, thematic design, and a typewriter effect for the AI's responses.
 
